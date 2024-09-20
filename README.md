@@ -63,6 +63,10 @@ To run the todo list application, execute the `TodoGUI` class.
 - Java Development Kit (JDK) 8 or higher
 - Swing library (comes with JDK)
 
+## Video Tutorial
+- You can check out the video tutorial for this projects here.
+- https://youtu.be/xk4_1vDrzzo?feature=shared
+
 ## Contributions
 
 Feel free to fork the repository and submit pull requests for any improvements or features!
@@ -71,4 +75,6 @@ Feel free to fork the repository and submit pull requests for any improvements o
 
 For any inquiries, please contact the project maintainer.
 
+## Notes
+This projects serves as a simple example of Java GUI applications. You can extend it by adding new features like task storage in a database.
 ---
